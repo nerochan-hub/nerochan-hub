@@ -41,10 +41,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nerochan-hub&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nerochan-hub&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nerochan-hub&theme=tokyonight"/>
 
 ---
 
